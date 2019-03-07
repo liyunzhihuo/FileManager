@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="select_img_tip">最多只能选择9张图片</string>
+</resources>
